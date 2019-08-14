@@ -1,0 +1,19 @@
+{
+  "name": "pdf_generate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "generate_pdf.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fill-pdf-utf8": "^2.2.1",
+    "jimp": "^0.6.4",
+    "pdf-image": "^2.0.0"
+  }
+}
